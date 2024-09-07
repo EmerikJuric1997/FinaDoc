@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300" width="300" src="https://ibb.co/MNJncG2" />
+<img height="300" src="https://i.ibb.co/h8TsBZ7/fina-Doc-Logo.png" />
 </p>
 
 <p align="center">
@@ -18,17 +18,17 @@ For production run:
 3. npm run build
 
 <p align="center">
-<img src="https://ibb.co/TwWLbb8" />
+<img src="https://i.ibb.co/7Sk4RRW/mainPage.png" />
 </p>
 
 <p align="center">
-<img src="https://ibb.co/y673wXQ" />
+<img src="https://i.ibb.co/bsDfSPK/Comparison-Page.png" />
 </p>
 
 <p align="center">
-<img src="https://ibb.co/9wM7FJR" />
+<img src="https://i.ibb.co/f8cshbm/employe-Page.png" />
 </p>
 
 <p align="center">
-<img src="https://ibb.co/fDHtkpC" />
+<img src="https://i.ibb.co/5KLvr85/search-Page.png" />
 </p>
