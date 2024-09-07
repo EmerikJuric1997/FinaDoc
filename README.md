@@ -27,7 +27,3 @@ For production run:
 <p align="center">
 <img src="https://i.postimg.cc/nL8dwS4J/employe-Page.png" />
 </p>
-
-<p align="center">
-<img src="https://i.ibb.co/5KLvr85/search-Page.png" />
-</p>
