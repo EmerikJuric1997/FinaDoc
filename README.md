@@ -1,30 +1,34 @@
-# React + TypeScript + Vite
+<p align="center">
+<img height="300" width="300" src="https://ibb.co/MNJncG2" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+   <p>UNDER CONSTRUCTION</p>
+</p>
+<p align="center">Software for managing company account.</p>
+<p align="center">See your profits, manage workers, write their contracts and see their documents. Manage receipts, look who is your competitor and chat with other companies.</p>
 
-Currently, two official plugins are available:
+Software for PC🖥️
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For current preview of the app run:
+1. npm install
+2. npm run dev
+   
+For production run:
+3. npm run build
 
-## Expanding the ESLint configuration
+<p align="center">
+<img src="https://ibb.co/TwWLbb8" />
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<p align="center">
+<img src="https://ibb.co/y673wXQ" />
+</p>
 
-- Configure the top-level `parserOptions` property like this:
+<p align="center">
+<img src="https://ibb.co/9wM7FJR" />
+</p>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+<p align="center">
+<img src="https://ibb.co/fDHtkpC" />
+</p>
