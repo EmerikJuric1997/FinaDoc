@@ -1,5 +1,5 @@
 <p align="center">
-<img height="300" src="https://i.postimg.cc/j28ggsXg/fina-Doc-Logo.png" />
+<img height="300" width="60" src="https://i.postimg.cc/j28ggsXg/fina-Doc-Logo.png" />
 </p>
 
 <p align="center">
