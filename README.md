@@ -1,6 +1,7 @@
 <p align="center">
 <img height="300" src="https://i.ibb.co/h8TsBZ7/fina-Doc-Logo.png" />
 </p>
+![Image](https://image.ibb.co/g0SdPw/Screenshot_from_2018_01_05_11_14_40.png)
 
 <p align="center">
    <p>UNDER CONSTRUCTION</p>
