@@ -4,7 +4,7 @@
 
 <p align="center">UNDER CONSTRUCTION</p>
 
-<p align="center">Software for managing company account.</p>
+<p align="center">Software for managing company account made using React, Electron and Firebase.</p>
 <p align="center">See your profits, manage workers, write their contracts and see their documents. Manage receipts, look who is your competitor and chat with other companies.</p>
 
 <p align="center">Software for PC🖥️</p>
